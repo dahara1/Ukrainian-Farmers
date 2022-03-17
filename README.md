@@ -1,12 +1,15 @@
 # Narratives of Ukrainian Farmers.
 
-You can edit this project with windows 10 defaults video editor.  
+You can use tractor_base_cut.vpb with windows 10 defaults video editor, import from backup. 
+
+All copyrights of the following files belong to the copyright holder of the original file.
 
 There are some shortages, some that I didn't use, some that were slightly modified, and some that I don't know if they were original, but the URL list of the images / videos that I referred to.  
 
-I used it without permission. And I apologize for not being able to list the credits of everyone.  
+I reference it without permission. And I apologize for not being able to list the credits of everyone.  
 
 ## video
+https://www.youtube.com/watch?v=YaDZqsEZLKI
 https://twitter.com/IAPonomarenko/status/1501293371071123456
 https://twitter.com/XyKyiv/status/1502522609443000321
 https://twitter.com/XyKyiv/status/1499861387920969728
